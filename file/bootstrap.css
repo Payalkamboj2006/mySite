@@ -1,0 +1,9 @@
+.row{
+    border: 1px solid yellowgreen;
+}
+.col{
+    border: 1px solid blue;
+}
+.box ul li{
+    display: inline;
+}
